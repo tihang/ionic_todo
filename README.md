@@ -1,8 +1,13 @@
 # Ionic Todo App
 
 ---
+### Website
 
-#### Setup
+Live at **https://main.d2fl20ustrz0q6.amplifyapp.com/** 🔨
+
+
+---
+### Setup
 
 ```shell
     git clone https://github.com/tihang/ionic_todo.git
@@ -10,3 +15,4 @@
     npm install
     ionic serve
 ```
+
