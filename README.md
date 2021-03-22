@@ -5,7 +5,8 @@
 #### Setup
 
 ```shell
-    clone https://github.com/tihang/ionic_todo.git
+    git clone https://github.com/tihang/ionic_todo.git
+    cd ionic_todo
     npm install
     ionic serve
 ```
